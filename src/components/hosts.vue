@@ -10,7 +10,7 @@
           <span>{{hostData.hostname}}</span>
         </div>
         <div>
-          <span class="domain">{{hostData.domain}}</span>
+          <span class="domain">[[{{hostData.domain}}]]</span>
         </div>
       </div>
     </div>
